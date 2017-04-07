@@ -1,0 +1,6 @@
+//This file is used to configure babel which a transpiler like TypeScript. However,
+//isn't a super sset of JS.
+{
+    "presets": ["latest"] // this tells the babel transpiler that we will be using stage 0 - 4 ES features
+    //to learn more about babel https://babeljs.io/docs/plugins/
+}
